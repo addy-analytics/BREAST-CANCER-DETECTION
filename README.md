@@ -1,5 +1,7 @@
 ## Breast Cancer Detection using Machine Learning
-![]([https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/0_ZlBybQ65zPlGObZN.gif](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/breast_cancer.gif))
+
+![](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/breast_cancer.gif)
+
 ## Project Background
 
 ### What is Breast Cancer
