@@ -1,5 +1,5 @@
 ## Breast Cancer Detection using Machine Learning
-![](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/0_ZlBybQ65zPlGObZN.gif)
+![]([https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/0_ZlBybQ65zPlGObZN.gif](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/breast_cancer.gif)
 ## Project Background
 
 ### What is Breast Cancer
@@ -18,6 +18,19 @@ It's important to note that these numbers are subject to change as new data beco
 Breast cancer affects men as well as women. Although it affects women more frequently than men, breast cancer can still strike men. However, the primary goal of this project will be to examine breast cancer in women. Still, a good deal of this material also applies to men.
   
 ### Facts and Figures
+### Types of Breast Cancer Screening 
+![](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/breast_cancer_testing_screening.gif)
+
+  - Screening tests for breast cancer are crucial instruments for early diagnosis, which raises the likelihood of a successful outcome considerably. The following are a few typical forms of breast cancer screening tests.
+  - Mammography is the most popular technique for screening for breast cancer. It consists of X-ray images of the breast tissue.
+  - Clinical Breast Examination (CBE): this is done by a medical professional by physically examine the breasts to feel for lumps or other abnormalities.
+  - Breast Self-Examination (BSE): By regularly self-examining their breasts, women can become more familiar with how their breasts should feel and look, which will make it easier to notice changes.
+  - Breast Ultrasound: this produces images of the breast tissue by using sound waves. It is frequently used as a follow-up test in women or if a mammography reveals an abnormality.
+  - Breast MRIs (Magnetic Resonance Imaging): this produces fine detailed images of the breast by using radio waves and magnetic fields. It frequently works in tandem with mammography in specific circumstances, like screening high-risk people.
+  - Breast Biopsy: A biopsy may be necessary to obtain a sample of tissue for microscopic inspection if an anomaly is found using alternative screening techniques. This aids in identifying cancerous cells in the cells.
+-   Genetic testing: this might be advised for people who have specific risk factors or a family history of breast cancer. It can recognise particular genetic mutations that raise the likelihood of breast cancer development.
+
+
 ### Role of Machine Learning in Detecting Breast Cancer
 ## Project Description
 ## Results
