@@ -1,4 +1,6 @@
 ## Breast Cancer Detection using Machine Learning
+### Abstract
+The aim of this project is to create a machine-learning model capable of detecting breast cancer in mammograms obtained during routine screening examinations. The dataset encompasses radiographic breast images from approximately 20,000 female subjects, accompanied by metadata such as patient age, breast density, malignant cancer status, and additional follow-up details. The model will undergo training using the provided training set and subsequently be assessed using a concealed test set. The primary objective is to enhance the precision and efficiency of breast cancer detection, thereby reducing costs and unnecessary medical interventions. The overarching goal is to extend the benefits of early detection to a wider population. The current benchmark for the state-of-the-art probabilistic F1 score (pF1) stands at 55%.
 
 ![](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/breast_cancer.gif)
 
