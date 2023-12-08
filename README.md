@@ -38,8 +38,10 @@ Breast cancer affects men as well as women. Although it affects women more frequ
   The primary goal of this project is to develop a machine learning model for the early detection of breast cancer using the Wisconsin breast cancer dataset. Early detection is crucial for improving patient outcomes, and machine learning algorithms can assist in automating the analysis of medical data for timely diagnosis.
 Extensive testing revealed that among various machine learning models(Random Forest, Logistic Regression, Decision Tree) emploted, the Support Vector Machine (SVM) stands out with the highest reported accuracy, reaching approximately 97%, for the detection of breast cancer.
 
+![Model_Accuracies](https://github.com/addy-analytics/Breast-Cancer-Detection/assets/107724453/21784c67-2427-41bb-8510-526ee017a5fa)
+
  -  Dataset:
-  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images. The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as `sklearn.datasets.load_breast_cancer` or as  `csv file` of data has been externally loaded in the repository
+  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images. The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as `sklearn.datasets.load_breast_cancer` or as  `[csv file](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/dataset/data.csv)` of data has been externally loaded in the repository
 
   
 ### Role of Machine Learning in Detecting Breast Cancer
@@ -52,7 +54,6 @@ Machine learning plays a crucial role in detecting breast cancer by leveraging a
 In summary, amongst many others, machine learning plays a pivotal role in breast cancer detection by combining advanced algorithms with diverse datasets, ultimately contributing to early diagnosis, personalized treatment, and improved patient outcomes.
 
 ## Results
-
 The SVM model initially attained an accuracy of 97%. However, following the application of a normalization technique and optimization of C and Gamma parameters, the accuracy experienced a slight reduction to 96%.
 
 
