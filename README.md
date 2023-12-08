@@ -39,7 +39,7 @@ Breast cancer affects men as well as women. Although it affects women more frequ
 Extensive testing revealed that among various machine learning models(Random Forest, Logistic Regression, Decision Tree) emploted, the Support Vector Machine (SVM) stands out with the highest reported accuracy, reaching approximately 97%, for the detection of breast cancer.
 
  -  Dataset:
-  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images. The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as `sklearn.datasets.load_breast_cancer` or as  csv file of data has been externally loaded in the repository
+  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images. The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as `sklearn.datasets.load_breast_cancer` or as  `csv file` of data has been externally loaded in the repository
 
   
 ### Role of Machine Learning in Detecting Breast Cancer
@@ -55,4 +55,4 @@ In summary, amongst many others, machine learning plays a pivotal role in breast
 
 The SVM model initially attained an accuracy of 97%. However, following the application of a normalization technique and optimization of C and Gamma parameters, the accuracy experienced a slight reduction to 96%.
 
-## References
+
