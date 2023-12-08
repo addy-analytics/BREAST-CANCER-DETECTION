@@ -1,4 +1,4 @@
-## Breast Cancer Detection using Machine Learning
+## Breast Cancer Classification using Machine Learning
 
 ![](https://github.com/addy-analytics/Breast-Cancer-Detection/blob/main/images/breast_cancer.gif)
 
