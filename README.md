@@ -36,11 +36,11 @@ Breast cancer affects men as well as women. Although it affects women more frequ
 ## Project Description
   - Objective:
   The primary goal of this project is to develop a machine learning model for the early detection of breast cancer using the Wisconsin breast cancer dataset. Early detection is crucial for improving patient outcomes, and machine learning algorithms can assist in automating the analysis of medical data for timely diagnosis.
-The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as `sklearn.datasets.load_breast_cancer` or as  csv file of data has been externally loaded in the repository
 Extensive testing revealed that among various machine learning models(Random Forest, Logistic Regression, Decision Tree) emploted, the Support Vector Machine (SVM) stands out with the highest reported accuracy, reaching approximately 97%, for the detection of breast cancer.
 
  -  Dataset:
-  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images. 
+  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images. The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as `sklearn.datasets.load_breast_cancer` or as  csv file of data has been externally loaded in the repository
+
   
 ### Role of Machine Learning in Detecting Breast Cancer
 Machine learning plays a crucial role in detecting breast cancer by leveraging advanced computational techniques to analyse and interpret complex data. Here are key aspects of the role of machine learning in breast cancer detection:
