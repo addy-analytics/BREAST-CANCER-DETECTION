@@ -44,10 +44,10 @@ Extensive testing revealed that among various machine learning models(Random For
   
 ### Role of Machine Learning in Detecting Breast Cancer
 Machine learning plays a crucial role in detecting breast cancer by leveraging advanced computational techniques to analyse and interpret complex data. Here are key aspects of the role of machine learning in breast cancer detection:
-- Radiomics and Texture Analysis: In this project we focus on analyzing radiomic features extracted from medical images, such as texture and shape characteristics, using machine learning algorithms. These features provide valuable information about tissue properties and contribute to more accurate cancer detection. 
-- Early Detection: machine learning models can analyze mammography images to identify patterns and anomalies indicative of early-stage breast cancer.
-- Image Classification: algorithms can be trained to classify breast cancer images into categories such as benign or malignant. Convolutional Neural Networks (CNNs) are commonly used for image classification tasks, providing high accuracy in distinguishing between different tissue types.
-- Risk Prediction: machine learning models can assess a patient's risk of developing breast cancer based on various factors such as genetic markers, family history, and lifestyle. Predictive models help identify individuals who may benefit from more frequent screening or preventive measures.
+  - Radiomics and Texture Analysis: In this project we focus on analyzing radiomic features extracted from medical images, such as texture and shape characteristics, using machine learning algorithms. These features provide valuable information about tissue properties and contribute to more accurate cancer detection. 
+  - Early Detection: machine learning models can analyze mammography images to identify patterns and anomalies indicative of early-stage breast cancer.
+  - Image Classification: algorithms can be trained to classify breast cancer images into categories such as benign or malignant. Convolutional Neural Networks (CNNs) are commonly used for image classification tasks, providing high accuracy in distinguishing between different tissue types.
+  - Risk Prediction: machine learning models can assess a patient's risk of developing breast cancer based on various factors such as genetic markers, family history, and lifestyle. Predictive models help identify individuals who may benefit from more frequent screening or preventive measures.
 
 In summary, amongst many others, machine learning plays a pivotal role in breast cancer detection by combining advanced algorithms with diverse datasets, ultimately contributing to early diagnosis, personalized treatment, and improved patient outcomes.
 
