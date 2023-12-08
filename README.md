@@ -36,7 +36,7 @@ Breast cancer affects men as well as women. Although it affects women more frequ
 ## Project Description
   - Objective:
   The primary goal of this project is to develop a machine learning model for the early detection of breast cancer using the Wisconsin breast cancer dataset. Early detection is crucial for improving patient outcomes, and machine learning algorithms can assist in automating the analysis of medical data for timely diagnosis.
-Extensive testing revealed that among various machine learning models(Random Forest, Logistic Regression, Decision Tree) emploted, the Support Vector Machine (SVM) stands out with the highest reported accuracy, reaching approximately 97%, for the detection of breast cancer.
+Extensive testing revealed that among various machine learning models(Random Forest, Logistic Regression, Decision Tree) emploted, the Support Vector Machine (SVM) stands out with the highest reported accuracy, reaching approximately 98%, for the detection of breast cancer.
 
 ![Model_Accuracies](https://github.com/addy-analytics/Breast-Cancer-Detection/assets/107724453/21784c67-2427-41bb-8510-526ee017a5fa)
 
