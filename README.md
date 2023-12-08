@@ -36,12 +36,23 @@ Breast cancer affects men as well as women. Although it affects women more frequ
 ## Project Description
   - Objective:
   The primary goal of this project is to develop a machine learning model for the early detection of breast cancer using the Wisconsin breast cancer dataset. Early detection is crucial for improving patient outcomes, and machine learning algorithms can assist in automating the analysis of medical data for timely diagnosis.
+The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as `sklearn.datasets.load_breast_cancer` or as  csv file of data has been externally loaded in the repository
+Extensive testing revealed that among various machine learning models(Random Forest, Logistic Regression, Decision Tree) emploted, the Support Vector Machine (SVM) stands out with the highest reported accuracy, reaching approximately 97%, for the detection of breast cancer.
 
  -  Dataset:
-  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images.
+  The project will utilize the Wisconsin Breast Cancer dataset [Link Here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data), which contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features include measures related to the cell nuclei present in the images. 
   
 ### Role of Machine Learning in Detecting Breast Cancer
+Machine learning plays a crucial role in detecting breast cancer by leveraging advanced computational techniques to analyse and interpret complex data. Here are key aspects of the role of machine learning in breast cancer detection:
+- Radiomics and Texture Analysis: In this project we focus on analyzing radiomic features extracted from medical images, such as texture and shape characteristics, using machine learning algorithms. These features provide valuable information about tissue properties and contribute to more accurate cancer detection. 
+- Early Detection: machine learning models can analyze mammography images to identify patterns and anomalies indicative of early-stage breast cancer.
+- Image Classification: algorithms can be trained to classify breast cancer images into categories such as benign or malignant. Convolutional Neural Networks (CNNs) are commonly used for image classification tasks, providing high accuracy in distinguishing between different tissue types.
+- Risk Prediction: machine learning models can assess a patient's risk of developing breast cancer based on various factors such as genetic markers, family history, and lifestyle. Predictive models help identify individuals who may benefit from more frequent screening or preventive measures.
+
+In summary, amongst many others, machine learning plays a pivotal role in breast cancer detection by combining advanced algorithms with diverse datasets, ultimately contributing to early diagnosis, personalized treatment, and improved patient outcomes.
+
 ## Results
-## Project Plan
-## Project Goals
+
+The SVM model initially attained an accuracy of 97%. However, following the application of a normalization technique and optimization of C and Gamma parameters, the accuracy experienced a slight reduction to 96%.
+
 ## References
